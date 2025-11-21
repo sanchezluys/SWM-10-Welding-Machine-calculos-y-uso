@@ -1,11 +1,12 @@
 # SWM-10-Welding-Machine-calculos-y-uso
-SWM-10 Welding Machine calculos y uso
+
+SWM-10 Foto
 
 ![alt text](D_NQ_NP_878567-MCO92265159698_092025-O.webp)
 
 ## Parametros configurables
 
-Principales
+Pantalla Menú Principal
 
 |Id|Nombre|Descripción|Min|Max|Por defecto|
 |--|------|-----------|---|---|-----------|
@@ -16,7 +17,7 @@ Principales
 |5|Interval|Intervalos|1 ms|20 ms|5 ms|
 |6|Dots|Puntos|1|5|1|
 
-Internos
+Pantalla Menú Interno
 
 |Id|Nombre|Descripción|Min|Max|Por defecto|
 |--|------|-----------|---|---|-----------|
@@ -31,3 +32,8 @@ Internos
 |9|Undervolt|Voltaje minimo|3.7 VDC|4.0 VDC|3.7 VDC|
 |10|Protection short-circuit|Proteccion de corto circuito|on|off|on|
 |11|Factory resetting|Reseteo de fabrica|-|-|-|
+
+Configuraciones recomendadas para laminas
+
+|Id|Espesor|Preheat|Pulse|Interval|CUR|
+|1|-|-|-|-|
