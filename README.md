@@ -36,4 +36,5 @@ Pantalla Menú Interno
 Configuraciones recomendadas para laminas
 
 |Id|Espesor|Preheat|Pulse|Interval|CUR|
-|1|-|-|-|-|
+|--|--|--|--|--|--|
+|1|-|-|-|-|-|
