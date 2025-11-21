@@ -19,27 +19,22 @@ La máquina de soldadura por puntos portátil de mano SWM-10 es una herramienta 
     Descarga de corriente de 1200 A
     Engranaje: 4 engranajes de ajuste combinados
 
-Presupuesto
-Marca
-FNIRSI
-modelo
-CANTIDAD-10
-Capacidad
-5000 mAh
-Cargar
-5 V/2,1 A
-Descargar
-5 V/2,1 A
+## Presupuesto:
+
+|Marca|FNIRSI|
+|modelo|CANTIDAD-10|
+|Capacidad|5000 mAh|
+|Cargar|5 V/2,1 A|
+|Descargar|5 V/2,1 A|
+
 Materiales de soldadura
 Hoja de níquel, hoja de hierro, hoja de acero inoxidable, hoja de aluminio
 Espesor de soldadura
 0.1-0.25MM
-Corriente de Soldadura Máxima
-1200A
+|Corriente de Soldadura Máxima|1200A|
 Engranaje
 ajuste de engranaje de 4 combinaciones
-Dimensión
-155 mm x 82 mm x 28 mm
+|Dimensión|155 mm x 82 mm x 28 mm|
 
 # Garantia
 
